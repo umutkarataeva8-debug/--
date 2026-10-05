@@ -1,0 +1,7 @@
+{
+  "name": "Салон Салидат — Ат-Башы",
+  "description": "Ат-Башыдагы «Салидат» сулуулук салону. Каш жасоо, пудровый напыление, перманенттик макияж. Байланыш: 0704152523, Мирбек дүкөнү, 2-кабат.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
